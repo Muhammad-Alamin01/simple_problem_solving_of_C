@@ -11,6 +11,9 @@
 * Decimal to Hexa-decimal & Hexa-decimal to decimal conversion
 * Octal to decimal & Decimal to Octal number conversion 
 * Hexa to Octal & Octal to Hexa conversion 
-* lowercase to uppercase & uppercase to lowercase withuout library function and with library function
-
+* Lowercase to uppercase & uppercase to lowercase withuout library function and with library function
+* Swap number
+* Triangle area 
+* Circle area
+* Quadratic equation 
 

@@ -1,4 +1,4 @@
-// Conversion between Octal to hexadecimal number
+// Conversion between Octal and hexadecimal number
 #include<stdio.h>
 
 int main()
