@@ -1,4 +1,4 @@
-# simple problems of C
+# simple problems in C
 
 
 * Simple Calculator 
